@@ -22,4 +22,4 @@ include:
   - board: mikoto@7.2
     shield: lily58_left nice_view_adapter nice_view
   - board: mikoto@7.2
-    shield: lily58_right
+    shield: lily58_right nice_view_adapter nice_view
