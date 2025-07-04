@@ -11,8 +11,8 @@ manifest:
       remote: zmkfirmware
       revision: main
       import: app/west.yml
-    - name: urchin-peripheral-animation   #new entry
-      remote: gpeye                       #new entry
+    - name: nice-view-mod
+      remote: gpeye
       revision: main
   self:
     path: config
