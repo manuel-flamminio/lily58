@@ -20,6 +20,6 @@
 ---
 include:
   - board: mikoto@7.2
-    shield: lily58_left nice_view_adapter nice_view
+    shield: lily58_left nice_view_adapter nice_view_custom
   - board: mikoto@7.2
-    shield: lily58_right nice_view_adapter nice_view
+    shield: lily58_right nice_view_adapter nice_view_custom
